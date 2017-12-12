@@ -27,7 +27,7 @@
            "boards": 
            [
              {
-               "name": "Haaris"
+               "name": "Test"
              }
            ],
            "toolsDependencies": []
