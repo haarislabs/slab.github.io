@@ -17,7 +17,7 @@
            {
              "online": "http://forum.openpanzer.org"
            },
-           "url": "https://openpanzerproject.github.io/OpenPanzerBoards/packages/openpanzer-avr-v1.0.2.tar.bz2",
+           "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/openpanzer-avr-v1.0.2.tar.bz2",
            "checksum": "SHA-256:A0F02324DFEE2570763C7BD287901D9195401ABDF6299300DAAC521FE8AF66DB",
            "archiveFileName": "openpanzer-avr-v1.0.2.tar.bz2",
            "size": "23395",
