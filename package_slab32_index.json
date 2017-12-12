@@ -19,7 +19,7 @@
            },
            "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slab_openpanzer-avr-v1.0.2.rar",
            "checksum": "SHA-256:A0F02324DFEE2570763C7BD287901D9195401ABDF6299300DAAC521FE8AF66DB",
-           "archiveFileName": "openpanzer-avr-v1.0.2.tar.bz2",
+           "archiveFileName": "slab_openpanzer-avr-v1.0.2.rar",
            "size": "23395",
            "name": "Open Panzer AVR Boards",
            "version": "1.0.2",
