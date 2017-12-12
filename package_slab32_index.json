@@ -21,13 +21,13 @@
            "checksum": "SHA-256:A0F02324DFEE2570763C7BD287901D9195401ABDF6299300DAAC521FE8AF66DB",
            "archiveFileName": "slab_openpanzer-avr-v1.0.2.rar",
            "size": "23395",
-           "name": "Open Panzer AVR Boards",
+           "name": "Slab-32 Test",
            "version": "1.0.2",
            "architecture": "avr",
            "boards": 
            [
              {
-               "name": "TCB Mk1"
+               "name": "Haaris"
              }
            ],
            "toolsDependencies": []
