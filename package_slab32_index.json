@@ -17,9 +17,9 @@
            {
              "online": "http://startoonlabs.com"
            },
-           "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/openpanzer-avr-v1.0.2.tar.bz2",
+           "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slab_openpanzer-avr-v1.0.2.rar",
            "checksum": "SHA-256:54925BECE979CEC3E7CDCBCF1BFAA7FB91C3356D7D2EDF777A02AF73D6A916DA",
-           "archiveFileName": "openpanzer-avr-v1.0.2.tar.bz2",
+           "archiveFileName": "slab_openpanzer-avr-v1.0.2.rar",
            "size": "27013",
            "name": "Slab-32 Test",
            "version": "1.0.2",
