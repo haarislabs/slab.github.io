@@ -9,7 +9,7 @@
       "platforms": [
         {
           "category": "Contributed", 
-          "name": "Slab32_esp8266", 
+          "name": "Slabs-32_esp8266", 
           "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slab_esp8266-2.3.0.zip", 
           "checksum": "SHA-256:884188A54BC75F1F2E7F827619F8CB1980DC3F430F92F9B07186ED7F4DB8C738", 
           "help": {
