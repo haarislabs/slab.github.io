@@ -17,9 +17,9 @@
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"
           },
-          "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_atmega-avr-1.6.2.zip",
-          "archiveFileName": "slabs_atmega328-avr-1.6.2.zip",
-          "checksum": "SHA-256:5055FB83383F4D6E3DF4FC52047C2DE7F63C1045D7C7204DBEDEDDC972CA9ED8",
+          "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_ATMEGA_v1.zip",
+          "archiveFileName": "slabs_ATMEGA_v1.zip",
+          "checksum": "SHA-256:2265D2397DEA254C0894C0D66E0BA0D5456A310C344BD5C59CB64D376C10F4B1",
           "size": "53832",
           "boards": [
             {"name": "Slabs 32 Arduino Pro"}
