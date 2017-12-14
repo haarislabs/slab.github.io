@@ -10,14 +10,14 @@
         {
           "category": "Contributed", 
           "name": "Slabs-32_esp8266", 
-          "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slab_esp8266-2.3.0.zip", 
-          "checksum": "SHA-256:884188A54BC75F1F2E7F827619F8CB1980DC3F430F92F9B07186ED7F4DB8C738", 
+          "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_cd_esp8266-2.3.0.zip", 
+          "checksum": "SHA-256:EAE988C922AC6A48CBA5E4ECD41B08AF4046CB52E7A5A4B0E96FC0BA08D4C874", 
           "help": {
             "online": "http://esp8266.github.com/Arduino/versions/2.3.0/"
           }, 
           "version": "2.3.0", 
           "architecture": "esp8266", 
-          "archiveFileName": "slab_esp8266-2.3.0.zip", 
+          "archiveFileName": "slabs_cd_esp8266-2.3.0.zip", 
           "boards": [
             {
               "name": "Slabs-32 Generic ESP8266 Module"
