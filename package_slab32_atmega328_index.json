@@ -17,9 +17,9 @@
            {
              "online": "http://startoonlabs.com"
            },
-           "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_atmega328-avr-1.0.0.zip",
-           "checksum": "SHA-256:68B796DDB10729700F00F86EBE8BE3EC5E0D7D26B2AD1FBC057E7B436381873F",
-           "archiveFileName": "slabs_atmega328-avr-1.0.0.zip",
+           "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_atmega-avr-1.6.2.zip",
+           "checksum": "SHA-256:5055FB83383F4D6E3DF4FC52047C2DE7F63C1045D7C7204DBEDEDDC972CA9ED8",
+           "archiveFileName": "slabs_atmega328-avr-1.6.2.zip",
            "size": "53832",
            "name": "Slab-32 Atmega 328",
            "version": "1.0.0",
