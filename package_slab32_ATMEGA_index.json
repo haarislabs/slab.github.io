@@ -17,9 +17,9 @@
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"
           },
-          "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_ATMEGA_v1.zip",
-          "archiveFileName": "slabs_ATMEGA_v1.zip",
-          "checksum": "SHA-256:2265D2397DEA254C0894C0D66E0BA0D5456A310C344BD5C59CB64D376C10F4B1",
+          "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_ATMEGA_v1-1.6.2.zip",
+          "archiveFileName": "slabs_ATMEGA_v1-1.6.2.zip",
+          "checksum": "SHA-256:BCCE8CAE10A4705EAF05E6E5FC03BAE8A838C0B863D5DE21BB7BD649644840F2",
           "size": "53832",
           "boards": [
             {"name": "Slabs 32 Arduino Pro"}
