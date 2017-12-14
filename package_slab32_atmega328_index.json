@@ -22,7 +22,7 @@
            "archiveFileName": "slabs_atmega328-avr-1.6.2.zip",
            "size": "53832",
            "name": "Slab-32 Atmega 328",
-           "version": "1.0.0",
+           "version": "1.6.2",
            "architecture": "avr",
            "boards": 
            [
