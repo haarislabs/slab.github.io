@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "arduino",
-      "maintainer": "Arduino",
+      "name": "Slabs 32 Atmega",
+      "maintainer": "Startoon labs",
       "websiteURL": "http://www.arduino.cc/",
       "email": "packages@arduino.cc",
       "help": {
@@ -10,44 +10,20 @@
       },
       "platforms": [
         {
-          "name": "Arduino AVR Boards",
+          "name": "Slabs 32 Boards",
           "architecture": "avr",
           "version": "1.6.20",
-          "category": "Arduino",
+          "category": "Contributed",
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"
           },
-          "url": "http://downloads.arduino.cc/cores/avr-1.6.20.tar.bz2",
-          "archiveFileName": "avr-1.6.20.tar.bz2",
-          "checksum": "SHA-256:61f3d59a2ab2e9191230e91e79ee91c05f32b32c33129d34d76ef87e56d257e1",
-          "size": "4897949",
+          "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_atmega-avr-1.6.2.zip",
+          "archiveFileName": "slabs_atmega328-avr-1.6.2.zip",
+          "checksum": "SHA-256:5055FB83383F4D6E3DF4FC52047C2DE7F63C1045D7C7204DBEDEDDC972CA9ED8",
+          "size": "53832",
           "boards": [
-            {"name": "Arduino Yún"},
-            {"name": "Arduino/Genuino Uno"},
-            {"name": "Arduino Uno WiFi"},
-            {"name": "Arduino Diecimila"},
-            {"name": "Arduino Nano"},
-            {"name": "Arduino/Genuino Mega"},
-            {"name": "Arduino MegaADK"},
-            {"name": "Arduino Leonardo"},
-            {"name": "Arduino Leonardo Ethernet"},
-            {"name": "Arduino/Genuino Micro"},
-            {"name": "Arduino Esplora"},
-            {"name": "Arduino Mini"},
-            {"name": "Arduino Ethernet"},
-            {"name": "Arduino Fio"},
-            {"name": "Arduino BT"},
-            {"name": "Arduino LilyPadUSB"},
-            {"name": "Arduino Lilypad"},
-            {"name": "Arduino Pro"},
-            {"name": "Arduino ATMegaNG"},
-            {"name": "Arduino Robot Control"},
-            {"name": "Arduino Robot Motor"},
-            {"name": "Arduino Gemma"},
-            {"name": "Adafruit Circuit Playground"},
-            {"name": "Arduino Yún Mini"},
-            {"name": "Arduino Industrial 101"},
-            {"name": "Linino One"}
+            {"name": "Slabs 32 Arduino Pro"}
+            
           ],
           "toolsDependencies": [
             {
@@ -98,7 +74,7 @@
         }
       ], 
       "email": "haaris.moosa@startoonlabs.com", 
-      "name": "esp8266"
+      "name": "Slab-32_Atmega"
     }
   ]
 }
