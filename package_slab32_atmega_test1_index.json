@@ -19,10 +19,10 @@
           },
           "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_test_atmega1.zip",
           "archiveFileName": "slabs_test_atmega1.zip",
-          "checksum": "SHA-256:0118D799193DD903F226BB9E287B71C4EA875771BDAF7288D45AB21B95ADD9DB",
-          "size": "53832",
+          "checksum": "6A6F4D33546C1FEC1F06560B832ED0DA3E5009CBA1AB72FC291A44DE87CA9725",
+          "size": "5232720",
           "boards": [
-            {"name": "Slabs 32 Arduino Pro"}
+            {"name": "Slabs 32 Atmega"}
             
           ],
           "toolsDependencies": []
