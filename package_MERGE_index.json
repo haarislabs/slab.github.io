@@ -22,7 +22,6 @@
             {
               "name": "Slabs-32 Generic ESP8266 Module"
             }
-            
           ], 
           "toolsDependencies": [
             {
@@ -42,7 +41,25 @@
             }
           ], 
           "size": "8595050"
-        } 
+        },
+        {
+          "name": "Slabs 32 Boards",
+          "architecture": "avr",
+          "version": "1.6.2",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.arduino.cc/en/Reference/HomePage"
+          },
+          "url": "https://github.com/haarislabs/slab.github.io/raw/master/packages/slabs_test_atmega1.zip",
+          "archiveFileName": "slabs_test_atmega1.zip",
+          "checksum": "SHA-256:6A6F4D33546C1FEC1F06560B832ED0DA3E5009CBA1AB72FC291A44DE87CA9725",
+          "size": "5232720",
+          "boards": [
+            {"name": "Slabs 32 Atmega"}
+            
+          ],
+          "toolsDependencies": []
+        }
       ], 
       "tools": [
         {
