@@ -21,7 +21,7 @@
           "boards": [
             {
               "name": "Slabs-32 Generic ESP8266 Module"
-            },
+            }
             
           ], 
           "toolsDependencies": [
@@ -60,8 +60,7 @@
             
           ],
           "toolsDependencies": []
-        }
-       } 
+        } 
       ], 
       "tools": [
         {
